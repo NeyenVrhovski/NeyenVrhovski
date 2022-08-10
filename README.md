@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NeyenVrhovski](https://github.com/NeyenVrhovski)
+- 👨‍💻 All of my projects are available at [https://neyenvrhovski.github.io/Portfolio/](https://neyenvrhovski.github.io/Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React JS**
 
