@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [IT Rock](https://www.linkedin.com/company/itrock/mycompany/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://neyenvrhovski.github.io/Portfolio/](https://neyenvrhovski.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Next Js**
 
 - 📫 How to reach me **neyenvrhovski@gmail.com**
 
