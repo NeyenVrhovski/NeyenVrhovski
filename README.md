@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IT Rock](https://www.linkedin.com/company/itrock/mycompany/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **SQL Laguage & MySQL**
 
 - 👨‍💻 All of my projects are available at [https://neyenvrhovski.github.io/Portfolio/](https://neyenvrhovski.github.io/Portfolio/)
 
